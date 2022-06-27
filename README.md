@@ -1,4 +1,5 @@
 # Quasar-Todo (quasar-todo-completo)
+A to do list app based in quasar framework
 
 A Quasar Framework app
 
